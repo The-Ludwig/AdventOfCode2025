@@ -1,0 +1,3 @@
+.session
+zig-out/
+.zig-cache/
